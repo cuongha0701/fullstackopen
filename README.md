@@ -39,7 +39,7 @@ Course Website: https://fullstackopen.com/en
 
 ### Part 7: React router, custom hooks, styling app with CSS and webpack
 
-### Part 8:GraphQL
+### Part 8: GraphQL
 
 ### Part 9: TypeScript
 
