@@ -1,4 +1,4 @@
-# [Full Stack Open 2022 Course - University of Helsinki](https://fullstackopen.com/en)
+# Full Stack Open 2022 Course - University of Helsinki
 
 ## Deep Dive Into Modern Web Development
 
@@ -15,9 +15,9 @@
 > >
 > > Participants are expected to have good programming skills, basic knowledge of web programming and databases, and to know the basics of working with the Git version-control system. You are also expected to have perseverance and the ability for independent problem solving and information seeking.
 > >
-> > Part 0 of the course material goes through the content and conduct of the course in more detail. Make sure to read the material and instructions thoroughly.
+> > Part 0 of the course material goes through the content and conduct of the course in more detail. Make sure to read the material and instructions thoroughly. -->
 
-Course Website: https://fullstackopen.com/en -->
+Course Website: https://fullstackopen.com/en
 
 ## Certificate
 
